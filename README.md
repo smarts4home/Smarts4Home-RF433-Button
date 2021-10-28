@@ -7,12 +7,11 @@
 <img width="20%" src="https://github.com/smarts4home/Smarts4Home-RF433-Button/raw/main/img/smarts4home-rf433button-1.png">
 <img width="20%" src="https://github.com/smarts4home/Smarts4Home-RF433-Button/raw/main/img/smarts4home-rf433button-2.png">
 </p>
-
-4 channel RF433 battery button<br>
+Custom hardware designs for a super tiny RF433 4 channels button. Device is small enought to mount it in a flush mounting box with standard wall switch. If you like this, please give it a star!
 
 <B>BOM</b><ul>
 <li>RF433 transmiter - Qiachip TX118S-4
 <li>2450 Battery Holder
 <li>Terminal Block AK500/5 - horizontally mounted 
 <li>RF433 antenna </ul>
-Device is small enought to mount it in flush mounting box with standard wall switch.
+
