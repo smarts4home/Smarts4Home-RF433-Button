@@ -4,7 +4,7 @@
 ![image](https://github.com/smarts4home/Smarts4Home-RF433-Button/raw/main/img/smarts4home-rf433button-2.png)
 ![image](https://github.com/smarts4home/Smarts4Home-RF433-Button/raw/main/img/smarts4home-rf433button-1.png)
 <p>
-RF433 Battery Button.<br>
+RF433 Battery 4 channel button<br>
 <B>BOM</b><ul>
 <li>RF433 transmiter - Qiachip TX118S-4
 <li>Battery Holder 2450
